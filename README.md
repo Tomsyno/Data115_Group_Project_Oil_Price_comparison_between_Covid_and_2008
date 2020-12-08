@@ -1,4 +1,4 @@
-# Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008
+# Oil Price comparision between COVID-19 and the Crash of 2008
 Group project for Data 115 Oil prices and stock prices compared to Covid and 2008 economic crashes
 ## Interest in Topic
 We are living in a time of a pandemic that has vastly changed the way our society functions and we lived through the Crash of 2008, so it is interesting to look at other big impacts of these big events. Especially as we are older now and more aware of the economy, it is more interesting to look at how this compares to 2008. 
