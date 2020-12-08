@@ -13,15 +13,7 @@ We downloaded our Oil Price data from (https://www.eia.gov/dnav/pet/pet_pri_gnd_
 
 We then cleaned the data in Excel, which just consisted of deleting a few useless rows that did not contain data. Then we converted those files into cleaned up csv’s.  
 ## Visualizations
-![AVG Oil](https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Oil%20Price%20Visualization.png) 
-
-![Average Stock Prices](https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Stocks%20Visualization.png) 
-
-![Oil 2008 Zoomed](https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Oil08Zoomed.png) 
-
-![Stocks 2008 Zoomed](https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Stocks08Zoomed.png) 
-
-![Oil 2020 Zoomed](https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/OIL2020Zoomed.png) ![Stocks 2020 Zoomed](https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Stocks2020Zoomed.png) 
+![AVG Oil](https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Oil%20Price%20Visualization.png) ![Average Stock Prices](https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Stocks%20Visualization.png) ![Oil 2008 Zoomed](https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Oil08Zoomed.png) ![Stocks 2008 Zoomed](https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Stocks08Zoomed.png) ![Oil 2020 Zoomed](https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/OIL2020Zoomed.png) ![Stocks 2020 Zoomed](https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Stocks2020Zoomed.png) 
 ## Analysis
 
 ## Conclusions
