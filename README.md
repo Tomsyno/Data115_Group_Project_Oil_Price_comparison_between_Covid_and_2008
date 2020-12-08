@@ -13,7 +13,12 @@ We downloaded our Oil Price data from (https://www.eia.gov/dnav/pet/pet_pri_gnd_
 
 We then cleaned the data in Excel, which just consisted of deleting a few useless rows that did not contain data. Then we converted those files into cleaned up csv’s.  
 ## Visualizations
-![Title](https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Oil%20Price%20Visualization.png) 
+![Average Oil Prices](https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Oil%20Price%20Visualization.png) 
+!
+!
+!
+!
+!
 ## Analysis
 
 ## Conclusions
