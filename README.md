@@ -7,9 +7,9 @@ Group project for Data 115 Oil prices and stock prices compared to Covid and 200
 
 - How does the recovery from the economic impact of COVID compare to the recovery from the 2008 economic crisis?
 ## Data Process
-We downloaded our Oil Price data from (https://www.eia.gov/dnav/pet/pet_pri_gnd_a_epm0_pte_dpgal_w.htm ). We used the data for Price of Oil per Gallon every week from April of 1993 to November 2020. We averaged the data from the East Coast, West Coast and MidWest in the USA to get a good representation of the data. We got our Stock Price data from (https://finance.yahoo.com/quote/%5EGSPC/history/) from the same time interval. 
+We downloaded our Oil Price data from (https://www.eia.gov/dnav/pet/pet_pri_gnd_a_epm0_pte_dpgal_w.htm ). We used the data for Price of Oil per Gallon every week from April of 1993 to November 2020. We averaged the data from the East Coast, West Coast and MidWest in the USA to get a good representation of the data.
 ## Visualizations
-
+gsergsg
 ## Analysis
 
 ## Conclusions
