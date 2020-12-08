@@ -9,4 +9,4 @@ Group project for Data 115 Oil prices and stock prices compared to Covid and 200
 ## Analysis
 
 ## Conclusions
-
+### POOP
