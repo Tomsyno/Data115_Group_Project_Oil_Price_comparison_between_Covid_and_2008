@@ -1,4 +1,4 @@
-# Oil Price comparision between COVID-19 and the Crash of 2008
+# Oil Price Comparison Between COVID-19 and the Crash of 2008
  by Tom Synoground, Kian Ankerson, Zach Fechko, and Elliot Kimsey
 ## Interest in Topic
 We are living in a time of a pandemic that has vastly changed the way our society functions and we lived through the Crash of 2008, so it is interesting to look at other big impacts of these big events. Especially as we are older now and more aware of the economy, it is more interesting to look at how this compares to 2008. 
