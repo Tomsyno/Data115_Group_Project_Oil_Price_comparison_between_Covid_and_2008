@@ -18,7 +18,7 @@ We imported the csv’s into Python and graphed line plots based on the Average 
 Finally, we cleaned up the x-axes, as the measurements of time were the same units. Then we added labels to the main graphs and added some helpful points of interest. 
 ## Visualizations
 ![AVG Oil](https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Oil%20Price%20Visualization.png) ![Average Stock Prices](https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Stocks%20Visualization.png) ![Oil 2008 Zoomed](https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Oil08Zoomed.png) ![Stocks 2008 Zoomed](https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Stocks08Zoomed.png) ![Oil 2020 Zoomed](https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/OIL2020Zoomed.png) ![Stocks 2020 Zoomed](https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Stocks2020Zoomed.png)
-## Analysis
+## Analyses and Conclusions
 In our analysis we looked at how bad the price crashed in 2008 and 2020 for both the price of Oil Per Gallon in the United States and the price of the S&P 500 market index fund. To do this, we used Excel to locate the highs and low points for the time of each crash.  
 
 For the oil crash in 2008, we used price data from March 2007 to June 2009 and found the highest was  ~$4.24 per gallon before the crash, and the lowest was ~$1.72, during the crash. In 2020, for the period of time from November 2019 to November 2020, we found the highest was ~$2.91 before the crash and the lowest was ~$1.99 during the crash. It’s important to note that before the big oil crash in 2020 from the COVID-19 Pandemic, Oil prices were already decreasing slightly. 
@@ -27,5 +27,5 @@ We did very similar steps in finding the high and low points for the stock price
 ![S&P 500 Comparison](https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/ComparisonS%26P500.png)![Oil Prices Comparison](https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/ComparisonOil.png)
 
 An interesting thing here to note is that while the crash of oil prices was relatively worse in 2008 than 2020, if you account for inflation, the lowest price of oil in 2020 was lower than its worse during the 2008, while doing the same for the S&P 500 was did not show the same behavior. According to the [Bureau of Labor Statistics Inflation Calculator](https://www.bls.gov/data/inflation_calculator.htm) after plugging in the months each low was hit during, we see $1 in December 2008 is equivalent to $1.22 in April 2020. Using these to account for inflation tells us that the worst oil prices in 2020 were almost 10 cents worse than in 2008 ($1.72 2008 and $1.63 in 2020 after reversing inflation).
-## Conclusions
+
 
