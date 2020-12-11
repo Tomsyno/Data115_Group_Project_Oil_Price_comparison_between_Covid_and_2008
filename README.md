@@ -31,7 +31,8 @@ We did very similar steps in finding the high and low points for the stock price
 
 Using these numbers we calculated the relative price drops in order to determine the actual severity of both market crashes. After finding the relative price crash percentage, we saw that the market crash in 2008 for both the stock numbers (S&P 500) and Oil prices were worse than the more recent crash in 2020. In 2008 the S&P 500 dropped 56.78% and oil dropped 59.43%, while in 2020 the S&P 500 dropped 38.50% and oil prices fell 31.61%.
 
-![S&P 500 Comparison](https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/ComparisonS%26P500.png)![Oil Prices Comparison](https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/ComparisonOil.png)
+
+<table> <tr><td><img src="https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/ComparisonS%26P500.png"></td><td><img src="https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/ComparisonOil.png"></td></tr> <tr><td>Oil Price Timeline</td><td>Stock Price Timeline</td></tr> </table> 
 
 An interesting thing here to note is that while the crash of oil prices was relatively worse in 2008 than 2020, if you account for inflation, the lowest price of oil in 2020 was lower than its worse during the 2008, while doing the same for the S&P 500 was did not show the same behavior. According to the [Bureau of Labor Statistics Inflation Calculator](https://www.bls.gov/data/inflation_calculator.htm) after plugging in the months each low was hit during, we see $1 in December 2008 is equivalent to $1.22 in April 2020. Using these to account for inflation tells us that the worst oil prices in 2020 were almost 10 cents worse than in 2008 ($1.72 2008 and $1.63 in 2020 after reversing inflation).
 
