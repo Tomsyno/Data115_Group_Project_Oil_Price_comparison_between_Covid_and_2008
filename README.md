@@ -28,6 +28,8 @@ For the oil crash in 2008, we used price data from March 2007 to June 2009 and f
 
 ![Average Stock Prices](https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Stocks%20Visualization.png)
 
+<table> <tr><td><img src="https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Oil%20Price%20Visualization.png"></td><td><img src="https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Stocks%20Visualization.png"></td></tr> <tr><td>Oil Price Timeline</td><td>Stock Price Timeline</td></tr> </table> 
+
 We did very similar steps in finding the high and low points for the stock price of the S&P 500 during the same time periods. Again using Excel, we found the S&P 500 reached a high of $1565.15 before the crash in 2008, and hit a low of $676.53 during the crash. Before the COVID pandemic in 2020, the highest price of the S&P500 was $3638.35 and during the lowest price was $2237.40. 
 
 Using these numbers we calculated the relative price drops in order to determine the actual severity of both market crashes. After finding the relative price crash percentage, we saw that the market crash in 2008 for both the stock numbers (S&P 500) and Oil prices were worse than the more recent crash in 2020. In 2008 the S&P 500 dropped 56.78% and oil dropped 59.43%, while in 2020 the S&P 500 dropped 38.50% and oil prices fell 31.61%.
