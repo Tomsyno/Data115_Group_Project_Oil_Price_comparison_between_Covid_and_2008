@@ -19,7 +19,6 @@ We imported the csv’s into Python and graphed line plots based on the Average 
 Finally, we cleaned up the x-axes, as the measurements of time were the same units. Then we added labels to the main graphs and added some helpful points of interest. 
 
 We decided that we also wanted to take closer look at the time periods when those large price drops occured, so we could compare their relative drop in price, and how they compared Oil compared to Stocks in that aspect.
-## Zoomed In Visualizations
  <table> <tr><td><img src="https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Oil08Zoomed.png"></td><td><img src="https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Stocks08Zoomed.png"></td><td><img src="https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/OIL2020Zoomed.png"></td><td><img src="https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Stocks2020Zoomed.png"></td></tr> <tr><td>Oil Price Drop in 2008</td><td>Oil Price Drop in 2020</td><td>Stock Price Drop in 2008</td><td>Stock Price Drop in 2020</td></tr> </table>
 
 ## Analyses and Conclusions
