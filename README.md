@@ -3,14 +3,16 @@
 ## Interest in Topic
 We are living in a time of a pandemic that has vastly changed the way our society functions and we lived through the Crash of 2008, so it is interesting to look at other big impacts of these big events. Especially as we are older now and more aware of things like politics, and the economy, we are more invested in these things and want our own answers instead of listening to whatever gets told to us by the news or media. The media and news' effect on our generation has led to people believing whatever is told to them, without having an opposing view, or giving us enough specifics on the conclusions that people make so quickly. While this data doesn't show us the effects of things like deaths in each year, it does show us the state of the economy and that has an affect on everyone whether or not they may realize it. 
 ## Motivating Questions
-- How is the economic crash of 2008 similar to what is happening due to the Coronavirus?  
+- How is the economic crash of 2008 similar to what is happening economically, due to the Coronavirus?  
 
 - What similarities do we see between Oil Prices and the value of Stocks? 
 
 - How does the recovery from the economic impact of COVID compare to the recovery from the 2008 economic crisis?
+
+Our data can give us all of the information we need to answer these questions. We can look at specific price drops at any date we want and compare the datasets to each other. 
 ## Data Process
 We downloaded our Oil Price data from (https://www.eia.gov/dnav/pet/pet_pri_gnd_a_epm0_pte_dpgal_w.htm ). We used the data for Price of Oil per Gallon every week from April of 1993 to November 2020. We averaged the data from the East Coast, West Coast and MidWest in the USA to get a good representation of the data. 
-We got our Stock Price data from (https://finance.yahoo.com/quote/%5EGSPC/history/) and used the same time intervals as the Oil data.  
+We got our Stock Price data from We downloaded our Oil Price data from (https://finance.yahoo.com/quote/%5EGSPC/history/) and used the same time intervals as the Oil data.  
 
 We then cleaned the data in Excel, which just consisted of deleting a few useless rows that did not contain data. Then we converted those files into cleaned up csv’s.  
 
