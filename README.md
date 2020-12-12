@@ -20,7 +20,7 @@ Finally, we cleaned up the x-axes, as the measurements of time were the same uni
 
 We decided that we also wanted to take closer look at the time periods when those large price drops occured, so we could compare their relative drop in price, and how they compared Oil compared to Stocks in that aspect. I used our previous graphs and changed the x and y limits to change our window of view on the data. 
 
-## Analyses and Conclusions
+## Analysis and Conclusions
 In our analysis we looked at how bad the price crashed in 2008 and 2020 for both the price of Oil Per Gallon in the United States and the price of the S&P 500 market index fund. To do this, we used Excel to locate the highs and low points for the time of each crash.  
 
 
