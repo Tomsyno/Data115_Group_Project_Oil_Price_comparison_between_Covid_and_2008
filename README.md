@@ -11,7 +11,7 @@ We are living in a time of a pandemic that has vastly changed the way our societ
 
 Our data can give us all of the information we need to answer these questions. We can look at specific price drops at any date we want and compare the datasets to each other. 
 ## Data Process
-We downloaded our Oil Price data from (https://www.eia.gov/dnav/pet/pet_pri_gnd_a_epm0_pte_dpgal_w.htm ). We used the data for Price of Oil per Gallon every week from April of 1993 to November 2020. We averaged the data from the East Coast, West Coast and MidWest in the USA to get a good representation of the data. 
+We downloaded our Oil Price data from (https://www.eia.gov/dnav/pet/pet_pri_gnd_a_epm0_pte_dpgal_w.htm ). The data we used was from three different regions in the United States, and was measured in dollars per gallon of oil. We averaged the data from the East Coast, West Coast and MidWest in the USA to get a good representation of the data. 
 We got our Stock Price data from We downloaded our Oil Price data from (https://finance.yahoo.com/quote/%5EGSPC/history/) and used the same time intervals as the Oil data.  
 
 We then cleaned the data in Excel, which just consisted of deleting a few useless rows that did not contain data. Then we converted those files into cleaned up csv’s.  
