@@ -48,7 +48,7 @@ Taking a closer look at the data, we can see how both the Oil Price and the Stoc
 
 ## Methods
 #### Excel Hi/Lo Function 
-For getting our data points  
+In Excel, we used the High/Low Function to easily find those data points so that we could use numbers for the two Crashes to compare their relative percentage price drop. 
 
 #### Axis Limit Adjustments 
 When constructing our visualizations in python, we had to use plt.xlim and plt.ylim to to change the bounds of our graph, so that we could zoom in on the specific time and price ranges we wanted. 
