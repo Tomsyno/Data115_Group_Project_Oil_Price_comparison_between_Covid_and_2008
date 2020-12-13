@@ -58,4 +58,4 @@ It is interesting to look at the Graphs from 1993 to Present, and see just how g
 While we do see large similarities with both Oil Price and Stock Price in the two economic crises, The Crash of 2008 was more severe of a crisis, strictly from an economic view. 
 
 ## Future Analysis
-
+In the future it would be interesting to look at updated graphs for this data, as we are not in the recovery phase of the Crash caused by COVID-19 yet. It
