@@ -11,15 +11,14 @@ We are living in a time of a pandemic that has vastly changed the way our societ
 
 Our data can give us all of the information we need to answer these questions. We can look at specific price drops at any date we want and compare the datasets to each other. 
 ## Data Process
+#### Raw Data
 We downloaded our Oil Price data from (https://www.eia.gov/dnav/pet/pet_pri_gnd_a_epm0_pte_dpgal_w.htm ). The data we used was from three different regions in the United States, and was measured in dollars per gallon of oil. We averaged the data from the East Coast, West Coast and MidWest in the USA to get a good representation of the data. 
 We got our Stock Price data from We downloaded our Oil Price data from (https://finance.yahoo.com/quote/%5EGSPC/history/) and used the same time intervals as the Oil data.  
-
+#### Cleaning
 We then cleaned the data in Excel, which just consisted of deleting a few useless rows that did not contain data. Then we converted those files into cleaned up csv’s.  
-
+#### Visualizations
 We imported the csv’s into Python and graphed line plots based on the Average Oil Price of the three regions, and graphed the Stock Prices. We also changed the x and y bounds and made graphs of both Oil and Stocks zoomed in on the Crash of 2008 and the Crash due to COVID-19.
-
 Finally, we cleaned up the x-axes, as the measurements of time were the same units. Then we added labels to the main graphs and added some helpful points of interest. 
-
 We decided that we also wanted to take closer look at the time periods when those large price drops occured, so we could compare their relative drop in price, and how they compared Oil compared to Stocks in that aspect. I used our previous graphs and changed the x and y limits to change our window of view on the data. 
 
 ## Analysis and Conclusions
