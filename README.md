@@ -9,11 +9,11 @@ We are living in a time of a pandemic that has vastly changed the way our societ
 
 - How does the recovery from the economic impact of COVID compare to the recovery from the 2008 economic crisis?
 
-The data we chose to use can give us all of the information we need to answer these questions. We can look at specific price drops at any date we want and compare the datasets to each other. 
 ## Data Process
 #### Raw Data
 We downloaded our Oil Price data from (https://www.eia.gov/dnav/pet/pet_pri_gnd_a_epm0_pte_dpgal_w.htm ). The data we used was from three different regions in the United States, and was measured in dollars per gallon of oil. We averaged the data from the East Coast, West Coast and MidWest in the USA to get a good representation of the data. 
-We got our Stock Price data from We downloaded our Oil Price data from (https://finance.yahoo.com/quote/%5EGSPC/history/) and used the same time intervals as the Oil data.  
+We got our Stock Price data from We downloaded our Oil Price data from (https://finance.yahoo.com/quote/%5EGSPC/history/) and used the same time intervals as the Oil data.
+The data we chose to use can give us all of the information we need to answer these questions. We can look at specific price drops at any date we want and compare the datasets to each other. 
 #### Cleaning
 We then cleaned the data in Excel, which just consisted of deleting the first few useless rows that did not contain data. Then we converted those files into cleaned up csv’s.  
 #### Visualizations
