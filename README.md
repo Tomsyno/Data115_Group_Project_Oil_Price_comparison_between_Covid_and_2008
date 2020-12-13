@@ -21,7 +21,7 @@ We imported the csv’s into Python and graphed line plots based on the Average 
 Finally, we cleaned up the x-axes, as the measurements of time were the same units. Then we added labels to the main graphs and added some helpful points of interest. 
 We decided that we also wanted to take closer look at the time periods when those large price drops occured, so we could compare their relative drop in price, and how they compared Oil compared to Stocks in that aspect. I used our previous graphs and changed the x and y limits to change our window of view on the data. 
 
-## Analysis and Conclusions
+## Analysis
 In our analysis we looked at how bad the price crashed in 2008 and 2020 for both the price of Oil Per Gallon in the United States and the price of the S&P 500 market index fund. To do this, we used Excel to locate the highs and low points for the time of each crash.  
 
 
@@ -39,10 +39,12 @@ Using these numbers we calculated the relative price drops in order to determine
 
 An interesting thing here to note is that while the crash of oil prices was relatively worse in 2008 than 2020, if you account for inflation, the lowest price of oil in 2020 was lower than its worse during the 2008, while doing the same for the S&P 500 was did not show the same behavior. According to the [Bureau of Labor Statistics Inflation Calculator](https://www.bls.gov/data/inflation_calculator.htm) after plugging in the months each low was hit during, we see $1 in December 2008 is equivalent to $1.22 in April 2020. Using these to account for inflation tells us that the worst oil prices in 2020 were almost 10 cents worse than in 2008 ($1.72 2008 and $1.63 in 2020 after reversing inflation).
 
+#### Close Up Comparison
 Taking a closer look at the data, we can see how both the Oil Price and the Stock Price drops vary in each year. We can see for Oil, in both 2008 and 2020 it drops to about 2 dollars a Gallon, but in 2008 it starts at a much higher price before the crash happened. For the Stock market, we notice that the overall price is higher in 2020, but the relative drop we see is larger in 2008 than it is in 2020.
 
  <table> <tr><td><img src="https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Oil08Zoomed%20-%20Copy.png"></td><td><img src="https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/OIL2020Zoomed%20-%20Copy.png"></td><td><img src="https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Stocks08Zoomed%20-%20Copy.png"></td><td><img src="https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Stocks2020Zoomed%20Copy.png"></td></tr> <tr><td>Oil Price Drop in 2008</td><td>Oil Price Drop in 2020</td><td>Stock Price Drop in 2008</td><td>Stock Price Drop in 2020</td></tr> </table>
 
+## Conclusions
 It is interesting to look at the Graphs from 1993 to Present, and see just how good of a job they do at showing us when major events in the United States occured. They tell parts of our country's history and can be explained by looking at the data. Since we already had an idea of what time period we wanted to look at, it was easier to represent those events with our data. But if somebody was viewing these graphs with no context or labels, they would want to know what caused the huge dips that we see. 
 
 While we do see large similarities with both Oil Price and Stock Price in the two economic crises, The Crash of 2008 was more severe of a crisis, strictly from an economic view. 
