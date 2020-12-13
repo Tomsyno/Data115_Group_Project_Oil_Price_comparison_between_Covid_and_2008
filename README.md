@@ -60,4 +60,8 @@ It is interesting to look at the Graphs from 1993 to Present, and see just how g
 While we do see large similarities with both Oil Price and Stock Price in the two economic crises, The Crash of 2008 was more severe of a crisis, strictly from an economic view. 
 
 ## Future Analysis
-In the future it would be interesting to look at updated graphs for this data, as we are not in the recovery phase of the Crash caused by COVID-19 yet. It
+In the future it would be interesting to look at updated graphs for this data. We cannot compare the recovery from the two Economic crashes we looked at, as we are not in the recovery phase of the Crash caused by COVID-19 yet.  
+
+It might also be interesting to investigate patterns that happens in datasets like these to see if we can predict right before big Crashes like this happen. It would be interesting to see if they occurred in a certain time of year each time, or something like that. 
+
+We might need to collect data and do some more reading to find out what to look at and what to look for because the there are countless factors that affect our economy. I would guess looking into growth of technologies during these time periods, or change in pivotal legislation. Pinning down the important and relevant ones to this topic would be where I think we could take this analysis further.  
