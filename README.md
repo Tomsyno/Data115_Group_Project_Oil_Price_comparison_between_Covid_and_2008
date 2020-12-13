@@ -15,7 +15,7 @@ We downloaded our Oil Price data from (https://www.eia.gov/dnav/pet/pet_pri_gnd_
 We got our Stock Price data from We downloaded our Oil Price data from (https://finance.yahoo.com/quote/%5EGSPC/history/) and used the same time intervals as the Oil data.
 The data we chose to use can give us all of the information we need to answer these questions. We can look at specific price drops at any date we want and compare the datasets to each other. 
 #### Cleaning
-We then cleaned the data in Excel, which just consisted of deleting the first few useless rows that did not contain data. Then we converted those files into cleaned up csv’s.  
+Both sources of the data we chose are very reliable sources, and so the data was already in pretty good shape. We further cleaned the data in Excel, which just consisted of deleting the first few useless rows that did not contain data. Then we converted those files into cleaned up csv’s so that Python can easily read them. 
 #### Visualizations
 We imported the csv’s into Python and graphed line plots based on the Average Oil Price of the three regions, and graphed the Stock Prices. We also changed the x and y bounds and made graphs of both Oil and Stocks zoomed in on the Crash of 2008 and the Crash due to COVID-19.
 Finally, we cleaned up the x-axes, as the measurements of time were the same units. Then we added labels to the main graphs and added some helpful points of interest. 
