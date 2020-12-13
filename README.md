@@ -47,7 +47,11 @@ Taking a closer look at the data, we can see how both the Oil Price and the Stoc
  <table> <tr><td><img src="https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Oil08Zoomed%20-%20Copy.png"></td><td><img src="https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/OIL2020Zoomed%20-%20Copy.png"></td><td><img src="https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Stocks08Zoomed%20-%20Copy.png"></td><td><img src="https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Stocks2020Zoomed%20Copy.png"></td></tr> <tr><td>Oil Price Drop in 2008</td><td>Oil Price Drop in 2020</td><td>Stock Price Drop in 2008</td><td>Stock Price Drop in 2020</td></tr> </table>
 
 ## Methods
+#### Excel Hi/Lo Function 
+For getting our data points  
 
+#### Axis Limit Adjustments 
+When constructing our visualizations in python, we had to use plt.xlim and plt.ylim to to change the bounds of our graph, so that we could zoom in on the specific time and price ranges we wanted. 
 ## Conclusions
 It is interesting to look at the Graphs from 1993 to Present, and see just how good of a job they do at showing us when major events in the United States occured. They tell parts of our country's history and can be explained by looking at the data. Since we already had an idea of what time period we wanted to look at, it was easier to represent those events with our data. But if somebody was viewing these graphs with no context or labels, they would want to know what caused the huge dips that we see. 
 
