@@ -1,32 +1,28 @@
 # An Economic Comparison Between the Crash caused by COVID-19 and the Crash of 2008
- by Tom Synoground, Kian Ankerson, Zach Fechko, and Elliot Kimsey
+by Elliot Kimsey, Kian Ankerson, Tom Synoground, and Zach Fechko.  
 ## Interest in Topic
-We are living in a time of a pandemic that has vastly changed the way our society functions and we lived through the Crash of 2008, so it is interesting to look at other big impacts of these big events. Especially as we are older now and more aware of things like politics, and the economy, we are more invested in these things and want our own answers instead of listening to whatever gets told to us by the news or media. The media and news' effect on our generation has led to people believing whatever is told to them, without having an opposing view, or giving us enough specifics on the conclusions that people make so quickly. While this data doesn't show us the effects of things like deaths in each year, it does show us the state of the economy and that has an affect on everyone whether or not they may realize it. 
+We are living in a time of a pandemic that has vastly changed the way our society functions. We have also lived through the Crash of 2008, so it is interesting to look at this other big impacts to see how the events can compare. Especially as we are older now and more aware of things like politics, and the economy. We are more invested in these things and want our own answers instead of listening to whatever is told to us by the news or media. The media and news' effect on our generation has led to people believing whatever is told to them, without having an opposing view, or giving us enough specifics on the conclusions for people to make decisions. While this data doesn't show us the effects of things like deaths in each year, it does show us the state of the economy and that has an affect on everyone whether or not they may realize it.  
 ## Motivating Questions
 - How is the economic crash of 2008 similar to what is happening economically, due to the Coronavirus?  
 
 - What similarities do we see between Oil Prices and the value of Stocks? 
 
-- How does the recovery from the economic impact of COVID compare to the recovery from the 2008 economic crisis?
+- How does the recovery from the economic impact of 2008 compare to the recovery of our current state with Covid-19? 
 
 ## Data Process
 #### Raw Data
-We downloaded our Oil Price data from (https://www.eia.gov/dnav/pet/pet_pri_gnd_a_epm0_pte_dpgal_w.htm ). The data we used was from three different regions in the United States, and was measured in dollars per gallon of oil. We averaged the data from the East Coast, West Coast and MidWest in the USA to get a good representation of the data. 
-We got our Stock Price data from We downloaded our Oil Price data from (https://finance.yahoo.com/quote/%5EGSPC/history/) and used the same time intervals as the Oil data.
-The data we chose to use can give us all of the information we need to answer these questions. We can look at specific price drops at any date we want and compare the datasets to each other. 
+We downloaded our Oil Price data from (https://www.eia.gov/dnav/pet/pet_pri_gnd_a_epm0_pte_dpgal_w.htm ). The data we used was from three different regions in the United States, and was measured in dollars per gallon of oil. We averaged the data from the East Coast, West Coast and MidWest in the USA to get an ideal representation of the data. We downloaed our Stock Price data from  (https://finance.yahoo.com/quote/%5EGSPC/history/) and used the same time intervals as the Oil data. For the stock data we decided to use the S&P 500 because of the diverseness of this stock. The data we chose to use can give us all of the information we need to help answer the big questions. We can look at specific price drops at any date we want and compare the datasets to each other. 
 #### Cleaning
-Both sources of the data we chose are very reliable sources, and so the data was already in pretty good shape. We further cleaned the data in Excel, which just consisted of deleting the first few useless rows that did not contain data. Then we converted those files into cleaned up csv’s so that Python can easily read them. 
+The data we chose came from a very reliable sources, and was in excellent shape. We further cleaned the data in Excel, which just consisted of deleting the first few useless rows that did not contain data. Then we converted those files into cleaned up csv’s so that Python can easily read them. 
 #### Visualizations
-We imported the csv’s into Python and graphed line plots based on the Average Oil Price of the three regions, and graphed the Stock Prices. We also changed the x and y bounds and made graphs of both Oil and Stocks zoomed in on the Crash of 2008 and the Crash due to COVID-19.
-Finally, we cleaned up the x-axes, as the measurements of time were the same units. Then we added labels to the main graphs and added some helpful points of interest. 
-We decided that we also wanted to take closer look at the time periods when those large price drops occured, so we could compare their relative drop in price, and how they compared Oil compared to Stocks in that aspect. I used our previous graphs and changed the x and y limits to change our window of view on the data. 
+We imported the .csv’s into Python and graphed line plots based on the Average Oil Price of the three regions. We graphed the Stock Prices using the .cvs data from Yahoo finance. We also changed the x and y bounds and made graphs of both Oil and Stocks zoomed in on the Crash of 2008 and the Crash due to COVID-19. Finally, we cleaned up the x-axes, as the measurements of time were the same units. Then we added labels to the main graphs and added some helpful points of interest. We decided that we also wanted to take closer look at the time periods when those large price drops occured, so we could compare their relative drop in price, and how oil compared to Stocks in that aspect. I used our previous graphs and changed the x and y limits to change our window of view on the data. 
 
 ## Analysis
 #### Main Focus
 In our analysis we looked at how bad the price crashed in 2008 and 2020 for both the price of Oil Per Gallon in the United States and the price of the S&P 500 market index fund. To do this, we used Excel to locate the highs and low points for the time of each crash.  
 
 #### Big Picture
-For the oil crash in 2008, we used price data from March 2007 to June 2009 and found the highest was  ~$4.24 per gallon before the crash, and the lowest was ~$1.72, during the crash. In 2020, for the period of time from November 2019 to November 2020, we found the highest was ~$2.91 before the crash and the lowest was ~$1.99 during the crash. It’s important to note that before the big oil crash in 2020 from the COVID-19 Pandemic, Oil prices were already decreasing slightly. 
+For the oil crash in 2008,  price data from March 2007 to June 2009 was used and found the highest was ~$4.24 per gallon before the crash, and the lowest was ~$1.72, during the crash. In 2020, for the period of time from November 2019 to November 2020, we found the highest was ~$2.91 before the crash and the lowest was ~$1.99 during the crash. It’s important to note that before the oil crash in 2020 from the COVID-19 Pandemic, Oil prices were already decreasing slightly. 
 
 
 <table> <tr><td><img src="https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Oil%20Price%20Visualization.png"></td><td><img src="https://github.com/Tomsyno/Data115_Group_Project_Oil_Price_comparison_between_Covid_and_2008/blob/main/Stocks%20Visualization.png"></td></tr> <tr><td>Timeline of Oil Price (Per Gallon) in the United States</td><td>Timeline of Stock Price in the United States</td></tr> </table>
@@ -60,8 +56,8 @@ It is interesting to look at the Graphs from 1993 to Present, and see just how g
 While we do see large similarities with both Oil Price and Stock Price in the two economic crises, The Crash of 2008 was more severe of a crisis, strictly from an economic view. 
 
 ## Future Analysis
-In the future it would be interesting to look at updated graphs for this data. We cannot compare the recovery from the two Economic crashes we looked at, as we are not in the recovery phase of the Crash caused by COVID-19 yet.  
+In the future it would be interesting to look at updated graphs for this data. We cannot compare the recovery from the two Economic crashes we looked at, as we are not in the recovery phase of the Crash caused by COVID-19 yet. The economic impact caused by Covid-19 has had a significant impact on everyday individuals in many forms like millions of jobs being cut causing burdens on aspects of life not covered in the data used.  
 
-It might also be interesting to investigate patterns that happens in datasets like these to see if we can predict right before big Crashes like this happen. It would be interesting to see if they occurred in a certain time of year each time, or something like that. 
+It might also be interesting to investigate patterns that happens in datasets like these to see if we can predict right before big Crashes like this happen. It would be interesting to see if they occurred in a certain time of year each time, for crashes like 2008.  
 
-We might need to collect data and do some more reading to find out what to look at and what to look for because the there are countless factors that affect our economy. I would guess looking into growth of technologies during these time periods, or change in pivotal legislation. Pinning down the important and relevant ones to this topic would be where I think we could take this analysis further.  
+We might need to collect data and do some more reading to find out what to look at and what to look for because of the countless factors that affect our economy. I would suggest looking into growth of technologies during these time periods, or change in pivotal legislation. Pinning down the important and relevant ones to this topic would be where I think we could take this analysis further.  
